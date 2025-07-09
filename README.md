@@ -1,16 +1,41 @@
-## Hi there 👋
+**# 👋 Hi there, I'm Santosh!
 
-<!--
-**Sreddy08840/Sreddy08840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | 👨‍🎓 CSE Student | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I love building full-stack web applications, solving real-world problems, and learning new tech.  
+🎓 I'm currently pursuing my B.Tech in Computer Science from Bangalore Technological Institute.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, JavaScript, SQL
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, cursor
+
+---
+
+## 📌 Projects
+
+- 🚜 **Agri-Connect** – E-commerce platform for farmers *(React + Node.js + SQL)*  
+- 📑 **Survey Form / Portfolio / Landing Page** – Built with responsive HTML/CSS  
+- 🎵 **Drum Machine & Markdown Previewer** – React-based frontend projects  
+
+Check out more in my [Repositories](https://github.com/Sreddy08840)!
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/YourUsername](https://www.linkedin.com/in/santosh-5770032b0/)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [your-portfolio-link.com](https://sreddy08840.github.io/My-Portfolio/) *(if any)*
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore and connect.*
+**
