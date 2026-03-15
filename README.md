@@ -28,7 +28,7 @@
 Check out more in my [Repositories](https://github.com/Sreddy08840)!
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-rvnkr1&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00D9FF&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreddy08840&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00D9FF&point=ffffff)
 
 </div>
 ---
