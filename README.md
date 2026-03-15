@@ -28,9 +28,9 @@
 Check out more in my [Repositories](https://github.com/Sreddy08840)!
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=praveengouda25&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=praveengouda25&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=praveengouda25&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sreddy08840&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sreddy08840&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreddy08840&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Connect With Me
 
