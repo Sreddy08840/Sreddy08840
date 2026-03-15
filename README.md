@@ -26,7 +26,11 @@
 - 🎵 **Drum Machine & Markdown Previewer** – React-based frontend projects  
 
 Check out more in my [Repositories](https://github.com/Sreddy08840)!
+<div align="center">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-rvnkr1&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00D9FF&point=ffffff)
+
+</div>
 ---
 ![](https://github-readme-stats.vercel.app/api?username=Sreddy08840&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sreddy08840&theme=blue-green&hide_border=false)<br/>
