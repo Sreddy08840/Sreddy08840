@@ -38,7 +38,7 @@ Check out more in my [Repositories](https://github.com/Sreddy08840)!
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-rvnkr1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreddy08840&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8" height="180em" />
 
 </div
 
