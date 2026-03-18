@@ -5,7 +5,7 @@
 ---
 
 🔧 I love building full-stack web applications, solving real-world problems, and learning new tech.  
-🎓 I'm currently pursuing my B.Tech in Computer Science from Bangalore Technological Institute.
+🎓 I'm currently pursuing my B.E in Computer Science from Bangalore Technological Institute.
 
 ---
 
