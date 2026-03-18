@@ -14,7 +14,7 @@
 - **Languages:** Java, Python, JavaScript, SQL
 - **Frontend:** HTML, CSS, React.js
 - **Backend:** Node.js, Express.js, Spring Boot
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL. Sql
 - **Tools:** Git, GitHub, VS Code, cursor
 
 ---
