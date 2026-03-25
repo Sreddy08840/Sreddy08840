@@ -13,7 +13,7 @@
 
 - **Languages:** Java, Python, JavaScript
 - **Frontend:** HTML, CSS, React.js
-- **Backend:** Node.js, Express.js, Spring Boot
+- **Backend:** Node.js, Express.js,java
 - **Databases:** MySQL. Sql
 - **Tools:** Git, GitHub, VS Code, cursor
 
