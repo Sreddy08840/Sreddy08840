@@ -58,7 +58,7 @@ Check out more in my [Repositories](https://github.com/Sreddy08840)!
 
 - 💼 LinkedIn:https://www.linkedin.com/in/santosh-5770032b0/
 - 📧 Email:sreddy08840@gmail.com
-- 🌐 Portfolio: https://sreddy08840.github.io/My-Portfolio/
+- 🌐 Portfolio:https://portflio-santoshs-projects-0a367ea7.vercel.app/
 
 ---
 
