@@ -22,7 +22,6 @@
 ## 📌 Projects
 
 - 🚜 **Agri-Connect** – E-commerce platform for farmers *(React + Node.js + SQL)*  
-- 📑 **Survey Form / Portfolio / Landing Page** – Built with responsive HTML/CSS  
 - 🎵 **Drum Machine & Markdown Previewer** – React-based frontend projects  
 
 Check out more in my [Repositories](https://github.com/Sreddy08840)!
