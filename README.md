@@ -64,3 +64,4 @@ Check out more in my [Repositories](https://github.com/Sreddy08840)!
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore and connect.*
 **
+<img src="https://komarev.com/ghpvc/?username=Sreddy08840&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Profile Views" />
