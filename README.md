@@ -13,7 +13,7 @@
 
 **Full-Stack Developer · CSE Student @ Bangalore Technological Institute · Lifelong Builder**
 
-I love turning ideas into products — from farmers selling crops online to interactive music machines.
+I love turning ideas into real products — from farmers selling crops online to full-stack web apps.
 Currently in my final year of B.E. in Computer Science, building things that matter.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00FF41?style=for-the-badge&labelColor=0D1117)](https://portflio-santoshs-projects-0a367ea7.vercel.app/)
@@ -33,7 +33,7 @@ const santosh = {
   role:        "Full-Stack Developer",
   currentlyBuilding: "Agri-Connect — bridging farmers & buyers online",
   lookingFor:  "Internships & entry-level SWE roles",
-  funFact:     "I built a drum machine in React just to understand event handling better 🥁"
+  funFact:     "I debug best with lo-fi music and a strong cup of coffee ☕"
 };
 ```
 
@@ -75,25 +75,22 @@ Built with **React + Node.js + Express + MySQL**, Agri-Connect lets farmers list
 - Product listing, search, and order management
 - REST API backend with MySQL data persistence
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840)
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/Agri-Connect)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://portflio-santoshs-projects-0a367ea7.vercel.app/)
 
 ---
 
-### 🥁 Drum Machine
-> **A browser-based drum pad built in React — click or press keys to play sounds.**
+<!-- ➕ ADD YOUR REPOS BELOW — replace the links with your actual GitHub repo URLs -->
 
-A freeCodeCamp project that deepened my understanding of React state, event handling, and audio APIs.
+### 💻 More Projects
 
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840)
+> 📌 *Check out my pinned repositories below for more of my work!*
 
----
-
-### 📝 Markdown Previewer
-> **Real-time Markdown to HTML renderer built with React.**
-
-Type Markdown on the left, see live-rendered HTML on the right. Uses the `marked.js` library with a clean split-pane layout.
-
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840)
+| Project | Tech | Link |
+|---------|------|------|
+| Agri-Connect | React · Node.js · MySQL | [View →](https://github.com/Sreddy08840) |
+| *(your next project)* | *(stack)* | *(link)* |
+| *(your next project)* | *(stack)* | *(link)* |
 
 ---
 
