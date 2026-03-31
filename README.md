@@ -31,7 +31,7 @@ const santosh = {
   location:    "Bangalore, India 🇮🇳",
   education:   "B.E. Computer Science — Bangalore Technological Institute",
   role:        "Full-Stack Developer",
-  currentlyBuilding: "Agri-Connect — bridging farmers & buyers online",
+  currentlyBuilding: "Corporate Commitment Monitor — AI-powered sustainability tracker",
   lookingFor:  "Internships & entry-level SWE roles",
   funFact:     "I debug best with lo-fi music and a strong cup of coffee ☕"
 };
@@ -54,12 +54,15 @@ const santosh = {
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -80,17 +83,36 @@ Built with **React + Node.js + Express + MySQL**, Agri-Connect lets farmers list
 
 ---
 
-<!-- ➕ ADD YOUR REPOS BELOW — replace the links with your actual GitHub repo URLs -->
+### 🏢 Corporate Commitment Monitor
+> **A full-stack AI-powered app that tracks whether companies actually follow through on their sustainability pledges.**
 
-### 💻 More Projects
+Built with **React (Vite) + Node.js + Express + MongoDB**, this tool lets users add companies and their public commitments (e.g. "50% renewable energy by 2030"), then submit news articles for automatic AI classification. The AI (Hugging Face zero-shot or OpenAI) labels each update as **Progress, Delay, Reversal, or Unrelated** and triggers dashboard alerts for critical changes.
 
-> 📌 *Check out my pinned repositories below for more of my work!*
+**Key features:**
+- AI news classification using Hugging Face BART or OpenAI GPT
+- Company & commitment management with deadline tracking
+- Dashboard with critical alert highlighting for Delay/Reversal items
+- Deployed frontend on GitHub Pages, API on Render, DB on MongoDB Atlas
+- CI/CD via GitHub Actions with automated Vite builds
 
-| Project | Tech | Link |
-|---------|------|------|
-| Agri-Connect | React · Node.js · MySQL | [View →](https://github.com/Sreddy08840) |
-| *(your next project)* | *(stack)* | *(link)* |
-| *(your next project)* | *(stack)* | *(link)* |
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/Corporate-Commitment-Monitor)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://sreddy08840.github.io/Corporate-Commitment-Monitor/)
+
+---
+
+### 🌐 Social Network Site
+> **A feature-complete social networking platform built entirely with Java — no frameworks, just core Java EE.**
+
+Built with **Java + JSP + Servlets + JDBC + MySQL**, this app demonstrates deep backend fundamentals: custom session management, BCrypt password hashing, SQL injection prevention via prepared statements, and multipart file uploads. No Spring, no shortcuts.
+
+**Key features:**
+- User auth with BCrypt hashing and HTTP-only session cookies
+- Post feed with likes, comments, shares, and image uploads
+- Friend system — send/accept/decline requests with notifications
+- Real-time notification badge polling
+- Full MVC architecture with DAO pattern (47+ source files, 6,400+ lines)
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/social-network-site)
 
 ---
 
