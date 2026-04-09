@@ -30,7 +30,7 @@ Currently in my final year of B.E. in Computer Science, building things that mat
 const santosh = {
   location:    "Bangalore, India 🇮🇳",
   education:   "B.E. Computer Science — Bangalore Technological Institute",
-  role:        "Full-Stack Developer",
+  role:        "Full-Stack Developer","Software Developer",
   currentlyBuilding: "Corporate Commitment Monitor — AI-powered sustainability tracker",
   lookingFor:  "Internships & entry-level SWE roles",
   funFact:     "I debug best with lo-fi music and a strong cup of coffee ☕"
