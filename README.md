@@ -11,7 +11,7 @@
 
 # Hey, I'm Santosh 👋
 
-**Full-Stack Developer/Software Developer · CSE Student @ Bangalore Technological Institute · Lifelong Builder**
+**Full-Stack Developer/Software Developer using ai· CSE Student @ Bangalore Technological Institute · Lifelong Builder**
 
 I love turning ideas into real products — from farmers selling crops online to full-stack web apps.
 Currently in my final year of B.E. in Computer Science, building things that matter.
