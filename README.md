@@ -83,7 +83,7 @@ Built with **React + Node.js + Express + MySQL**, Agri-Connect lets farmers list
 
 ---
 
-### 🏢 Corporate Commitment Monitor
+### 🏢 Corporate Commitment Monitor Using AI
 > **A full-stack AI-powered app that tracks whether companies actually follow through on their sustainability pledges.**
 
 Built with **React (Vite) + Node.js + Express + MongoDB**, this tool lets users add companies and their public commitments (e.g. "50% renewable energy by 2030"), then submit news articles for automatic AI classification. The AI (Hugging Face zero-shot or OpenAI) labels each update as **Progress, Delay, Reversal, or Unrelated** and triggers dashboard alerts for critical changes.
