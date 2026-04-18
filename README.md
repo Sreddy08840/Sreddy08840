@@ -99,6 +99,22 @@ Built with **React (Vite) + Node.js + Express + MongoDB**, this tool lets users 
 
 ---
 
+### 🌾 Krishi-Voice-AI
+> **An AI-powered voice assistant for farmers — breaking language barriers and making agricultural guidance accessible.**
+
+Built with **React + Node.js + Express + MongoDB + Hugging Face/OpenAI**, Krishi-Voice-AI enables farmers to interact with an intelligent assistant using their native language. Ask farming questions, get expert advice, receive crop recommendations, and access market prices — all through voice.
+
+**Key features:**
+- Voice-to-text conversion with multi-language support
+- AI-powered agricultural Q&A using LLMs
+- Real-time crop recommendation engine
+- Market price aggregation and alerts
+- Farmer-friendly interface optimized for low-connectivity areas
+
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/Kirishi-Voice-AI)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
