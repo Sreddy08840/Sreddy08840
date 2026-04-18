@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗
+███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗██╗  ██║
 ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝██║  ██║
 ███████╗███████║██╔██╗ ██║   ██║   ██║   ██║███████╗███████║
 ╚════██║██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║██╔══██║
@@ -11,7 +11,7 @@
 
 # Hey, I'm Santosh 👋
 
-**Full-Stack Developer/Software Developer using ai· CSE Student @ Bangalore Technological Institute · Lifelong Builder**
+**Full-Stack Developer/Software Developer · CSE Student @ Bangalore Technological Institute · Lifelong Builder**
 
 I love turning ideas into real products — from farmers selling crops online to full-stack web apps.
 Currently in my final year of B.E. in Computer Science, building things that matter.
@@ -31,7 +31,6 @@ const santosh = {
   location:    "Bangalore, India 🇮🇳",
   education:   "B.E. Computer Science — Bangalore Technological Institute",
   role:        "Full-Stack Developer","Software Developer",
-  currentlyBuilding: "Krishi-Voice-AI",
   lookingFor:  "Internships & entry-level SWE roles",
   funFact:     "I debug best with lo-fi music and a strong cup of coffee ☕"
 };
@@ -97,22 +96,6 @@ Built with **React (Vite) + Node.js + Express + MongoDB**, this tool lets users 
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/Corporate-Commitment-Monitor)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://sreddy08840.github.io/Corporate-Commitment-Monitor/)
-
----
-
-### 🌐 Social Network Site
-> **A feature-complete social networking platform built entirely with Java — no frameworks, just core Java EE.**
-
-Built with **Java + JSP + Servlets + JDBC + MySQL**, this app demonstrates deep backend fundamentals: custom session management, BCrypt password hashing, SQL injection prevention via prepared statements, and multipart file uploads. No Spring, no shortcuts.
-
-**Key features:**
-- User auth with BCrypt hashing and HTTP-only session cookies
-- Post feed with likes, comments, shares, and image uploads
-- Friend system — send/accept/decline requests with notifications
-- Real-time notification badge polling
-- Full MVC architecture with DAO pattern (47+ source files, 6,400+ lines)
-
-[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/social-network-site)
 
 ---
 
