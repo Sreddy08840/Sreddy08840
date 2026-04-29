@@ -149,7 +149,11 @@ Platform that monitors companies' public sustainability commitments and automati
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sreddy08840&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreddy08840&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8)
+<div align="center">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-rvnkr1&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00D9FF&point=ffffff)
+
+</div>
 </div>
 
 ---
