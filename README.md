@@ -192,7 +192,7 @@ I'm always open to interesting conversations, collaboration, or opportunities.
 
 ⭐️ *If you find my work interesting, consider starring a repo — it means a lot!*
 
-Made with ❤️ for , communities, and the future of agriculture.
+Made with ❤️ for , communities, and the future of div.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sreddy08840&label=Profile%20Views&color=00FF41&style=for-the-badge)
 
