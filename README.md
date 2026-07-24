@@ -85,14 +85,6 @@ An end-to-end platform connecting farmers & consumers directly with AI-powered f
 
 **Tech Stack:** React 18 + Node.js + PostgreSQL + Python FastAPI | Socket.IO (real-time chat) | Groq LLM + Deepgram STT | Qdrant RAG | Deployed: Railway + Vercel
 
-**Achievements:**
-- ✅ 33+ commits | Monorepo architecture
-- ✅ 92% ML recommendation accuracy (ALS + TF-IDF)
-- ✅ 100+ concurrent WebSocket connections
-- ✅ Phone OTP auth + JWT tokens
-- ✅ Fraud detection & sentiment analysis
-- ✅ <300ms voice AI response time
-
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/Agri-Connect)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://agriconnect-seven-gamma.vercel.app/)
 
