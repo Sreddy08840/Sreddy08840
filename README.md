@@ -103,8 +103,6 @@ A voice-first AI system that removes literacy & language barriers. Farmers speak
 
 **Tech Stack:** Node.js + Express | Vapi.ai (voice orchestration) | Deepgram Nova-2 STT | Groq LLM (Llama-3 70B) | Qdrant vector search | Google Gemini embeddings | Deployed: GitHub Pages + Railway
 
-**Impact:** Removes language barrier for 90% rural population. 15-20% yield improvement from disease detection. 20-30% higher earnings from market price awareness.
-
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreddy08840/Kirishi-Voice-AI)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://sreddy08840.github.io/Corporate-Commitment-Monitor/)
 
