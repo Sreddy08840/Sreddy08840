@@ -13,7 +13,7 @@
 
 **Full-Stack Developer/Software Developer  · Lifelong Builder**
 
-I love turning ideas into real products — from farmers selling crops online to full-stack web apps with AI.
+I love turning ideas into real products —  full-stack web apps with AI.
 Currently  completed of B.E. in Computer Science, building things that matter.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00FF41?style=for-the-badge&labelColor=0D1117)](https://portflio-santoshs-projects-0a367ea7.vercel.app/)
